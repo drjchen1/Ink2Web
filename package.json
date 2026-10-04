@@ -1,0 +1,33 @@
+{
+  "name": "mathnote-digitizer",
+  "private": true,
+  "version": "0.99p",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@google/genai": "^1.40.0",
+    "@types/js-beautify": "^1.14.3",
+    "framer-motion": "^12.34.3",
+    "heic2any": "^0.0.4",
+    "js-beautify": "^2.0.3",
+    "lucide-react": "^0.575.0",
+    "prismjs": "^1.30.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "react-simple-code-editor": "^0.14.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.2.1",
+    "@types/node": "^22.14.0",
+    "@types/prismjs": "^1.26.6",
+    "@vitejs/plugin-react": "^5.0.0",
+    "tailwindcss": "^4.2.1",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Remix DigitA11y",
+  "description": "Streamlined accessible transcription tool converting handwritten math notes into clean, WCAG 2.2 AA compliant HTML documents with MathJax LaTeX equations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
